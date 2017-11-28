@@ -13,5 +13,5 @@
 4. [sort.py](https://raw.githubusercontent.com/Droid-MAX/Python-exercise/master/sort.py)
 分别输入三个整数，由大到小输出
 
-5. [MessageBoard](https://raw.githubusercontent.com/Droid-MAX/Python-exercise/master/MessageBoard)
+5. [MessageBoard](https://github.com/Droid-MAX/Python-exercise/tree/master/MessageBoard)
 使用Python的Web框架，做一个Web版本的留言板
