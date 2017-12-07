@@ -17,13 +17,13 @@
 ## 目录树
 	.
 	├── db
-	│   └── todo.db （数据库文件）
+	│   └── comment.db （数据库文件）
 	├── setup_db.py（初始安装数据库）
 	├── static（静态文件目录）
 	│   ├── help.html
 	│   ├── primer.css
 	│   └── style.css
-	├── todo.py（核心文件）
+	├── comment.py（核心文件）
 	└── tpl（模板文件）
     	├── footer.tpl
     	├── header.tpl

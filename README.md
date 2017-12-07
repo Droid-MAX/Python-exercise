@@ -15,3 +15,6 @@
 
 5. [MessageBoard](https://github.com/Droid-MAX/Python-exercise/tree/master/MessageBoard)
 使用Python的Web框架，做一个Web版本的留言板
+
+6. [web.py](https://raw.githubusercontent.com/Droid-MAX/Python-exercise/master/web.py)
+使用Bottle框架做一个简单的HelloPython
