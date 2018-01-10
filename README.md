@@ -18,3 +18,9 @@
 
 6. [web.py](https://raw.githubusercontent.com/Droid-MAX/Python-exercise/master/web.py)
 使用Bottle框架做一个简单的HelloPython
+
+7. [tcp-server.py](https://raw.githubusercontent.com/Droid-MAX/Python-exercise/master/tcp-server.py)
+使用socket库创建一个简单的tcp-server
+
+8. [tcp-client](https://raw.githubusercontent.com/Droid-MAX/Python-exercise/master/tcp-client.py)
+使用socket库创建一个简单的tcp-client
