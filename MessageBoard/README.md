@@ -1,18 +1,16 @@
-> 使用Bottle + SQLite 制作的一个及简留言板。
+> 使用 Bottle + SQLite 制作的一个极简留言板。
 
 ## 用法
 
-安装好相应的依赖库后，
+安装好相应的依赖库后，进入目录，生成数据库文件（如果没有）：
 
-进入目录，先安装数据库文件（如果没有）：
-
-	python setup_db.py
+	python2 setup_db.py
 
 然后启动：
 	
-	python comment.py
+	python2 comment.py
 
-然后登录http://localhost:8800/ 即可。
+然后登录 `http://localhost:8080/` 即可。
 
 ## 目录树
 	.

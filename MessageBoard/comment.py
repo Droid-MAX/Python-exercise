@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 # by Droid-MAX
 """
@@ -88,4 +88,4 @@ def serve_static(filename):
     return static_file(filename, root='./static/')
 
 debug(True)
-run(host='0.0.0.0', port=8800, reloader=True)
+run(host='0.0.0.0', port=8080, reloader=True)
